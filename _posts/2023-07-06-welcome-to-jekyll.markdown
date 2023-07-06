@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Free Springs!"
 permalink: /firstPost/
 date:   2023-07-06 10:57:09 -0400
