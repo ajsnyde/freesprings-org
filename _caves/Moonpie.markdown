@@ -1,9 +1,8 @@
 ---
 layout: posts
 title:  "First Virgin Cave - Moonpie"
-permalink: /moonpie/
 date:   2023-07-07 10:57:09 -0400
-categories: update
+categories: caves
 header:
     image: /assets/images/Moonpie.jpg
 ---

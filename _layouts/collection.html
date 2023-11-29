@@ -4,7 +4,17 @@ layout: archive
 
 {{ content }}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
-</div>
+<table>
+  <tr>
+    <th>Cave Name</th>
+    <th>Date</th>
+    <th>Country</th>
+  </tr>
+  {% for cave in site.caves %}
+  <tr>
+    <td><a href="{{ cave.url }}">{{ cave.title }}</a></td>
+    <td>{{ cave.date }}</td>
+    <td>{{ cave.country }}</td>
+  </tr>
+  {% endfor %}
+</table>

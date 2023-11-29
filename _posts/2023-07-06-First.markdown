@@ -1,8 +1,0 @@
----
-layout: posts
-title:  "Free Springs!"
-permalink: /firstPost/
-date:   2023-07-06 10:57:09 -0400
-categories: update
----
-Welcome! This is the blog site for Free Springs. We're out to discover and map brand-new cave systems, as well as develop and utilize bleeding-edge technology in that pursuit.
