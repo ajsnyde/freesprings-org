@@ -10,7 +10,7 @@ If you want to add a cave, you'll need to create a single file [here](https://gi
 
 ![image](../assets/images/addCave.png)
 
-Then fill it in using the template (let's say it's called Shek Sink, which you can format as `ShekSink.md` in the filename) [here](https://github.com/ajsnyde/freesprings-org/blob/main/_drafts/ShekSink.md):
+Then fill it in using the template (let's say it's called Shek Sink, which you can format as `ShekSink.md` in the filename) [here](https://github.com/ajsnyde/freesprings-org/blob/main/_drafts/ShekSink.md?plain=1):
 
 ![image](../assets/images/addCave2.png)
 
