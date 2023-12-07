@@ -16,7 +16,7 @@ Then slam that commit button to open a pull request (pretty much asking me to re
 
 ![image](/assets/images/addCave3.png)
 
-And eventually I'll (or maybe others) will review the newly created PR and add it to the [list of caves]({{ site.baseurl }}{% link CavesCollection.md %})
+And eventually I'll (or maybe others) will review the newly created PR and add it to the list of caves.
 
 Have images/files? I'm trying to keep this dead-simple for people not aquainted with Git, so the roundabout way of doing that would be to go through the same process, except use the assets/images directory [here](https://github.com/ajsnyde/freesprings-org/tree/main/assets/images). Switch to your newly created branch:
 ![image](/assets/images/addCave4.png)
