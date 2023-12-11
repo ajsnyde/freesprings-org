@@ -4,6 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The FreeSprings Project was created to host _open and easily contributable_ cave maps and information, in order to supplement the caving community.
 baseurl: ""
 url: "https://freesprings.org"
+repository: ajsnyde/freesprings-org
 
 permalink: /:categories/:title:output_ext
 
