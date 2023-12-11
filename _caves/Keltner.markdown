@@ -1,0 +1,18 @@
+---
+layout: posts
+title:  "Keltner Saltpetre Cave"
+# date of last change - not important at this time
+date:   2023-07-07 10:57:09 -0400
+categories: [caves, dry]
+# coords are super nice, but can be redacted if sensitive
+coordinates: TBD
+locationName: "Metcalfe County"
+location:
+    latitude: 15.5285582
+    longitude: -2.2416807
+---
+
+[Vector Map](../assets/Keltner Saltpeter Cave//Keltner Saltpeter Cave v2.0.pdf) graciously provided by Phillip Sullivan.
+
+![image](../assets/Keltner Saltpeter Cave/Keltner Saltpeter Cave.png)
+

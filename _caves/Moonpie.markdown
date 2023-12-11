@@ -5,6 +5,10 @@ date:   2023-07-07 10:57:09 -0400
 categories: caves
 header:
     image: /assets/images/Moonpie.jpg
+locationName: "Undisclosed"
+location:
+    latitude: 21.23
+    longitude: -0.2416807
 ---
 Cameron had a lead. A landowner. And permission. He also got his first virgin cave earlier that week (Mudbug), so it was even more exciting when we found a crackling blue pool in either side of the crescent-moon shaped depression. Not just a depression, a cliffside, practically. After inspecting some nearby and not-so-promising sinks with the guidance of the landowner, a plan was made. Cameron would take the more likely and deeper side of the sink, and I’d poke around the shallow section, no tanks. Just poke my head a couple feet below with a mask on to see if there was anything worthy. I’d join him shortly after. My side was as expected. Clear blue, with a clear connection, but definitely some gnarly no-mount stuff. No dice. So I hopped out, made my way to the Cam’s side, waded in, and kitted up. As I’m doing so, I was careful to minimize the amount of silt and mud kicked up. After dropping down a few feet to meet Cameron, he circled a small hole in the otherwise impenetrable breakdown area. I didn’t understand. The last thing on my mind was the idea that he wanted me to go in. This was his. After repeating and confirming, I gingerly squeezed into the little person-sized slot. We were diving sidemount, but it was still rock-to-rock on my body as I shimmied in. 
 

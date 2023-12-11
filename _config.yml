@@ -21,7 +21,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-maps
 
+maps:
+  google:
+    # this api key only works coming from https://freesprings.org/
+    api_key: AIzaSyDcdWaHQ6i2mku7lGJ69eIsoB2suP9gZxA
+    
 logo: "/assets/images/logo1.svg"
 # Exclude from processing.
 # The following items will not be processed, by default.
