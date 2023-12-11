@@ -2,6 +2,15 @@
 layout: archive
 ---
 
-{{ content }}
+<h3 class="archive__subtitle">{{ page.title }}</h3>
+{% if page.categories[0] %}
+  {% include category-list.html %}
+{% endif %}
+{% if page.tags[0] %}
+  {% include tag-list.html %}
+{% endif %}
 
-{% google_map src="_caves/" %}
+{{ content }}
+{% if page.location %}
+    {% google_map src="_caves/" %}
+{% endif %}

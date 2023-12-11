@@ -7,12 +7,15 @@ date:   2023-07-07 10:57:09 -0400
 # leave as 'caves' or add to it like '[caves, dry]'
 categories: caves
 # coords are super nice, but can be redacted if sensitive
-coordinates: 29.938169405°,-82.48083354°
+locationName: "Land of Dreams"
+location:
+    latitude: 29.938169405
+    longitude: -82.48083354
 header:
     # path to the image
-    image: /assets/images/shekSink2.jpeg
+    image: /assets/Shek Sink/shekSink2.jpeg
 ---
 
 Super secret lead that came to me in a dream. This is not checked out at the time of this writing, but obviously cave entries should be confirmed as diveable.
 
-![image](../assets/images/shekSink.jpeg)
+![image](../assets/Shek Sink/shekSink.jpeg)

@@ -8,9 +8,10 @@ categories: [caves, dry]
 coordinates: TBD
 locationName: "Metcalfe County"
 location:
-    latitude: 15.5285582
-    longitude: -2.2416807
+    latitude: 37.000233 
+    longitude: -85.614165
 ---
+Coords are estimates
 
 [Vector Map](../assets/Keltner Saltpeter Cave//Keltner Saltpeter Cave v2.0.pdf) graciously provided by Phillip Sullivan.
 

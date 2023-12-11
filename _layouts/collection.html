@@ -4,17 +4,17 @@ layout: archive
 
 {{ content }}
 
+{% google_map src="_caves/" %}
+
 <table>
   <tr>
     <th>Cave Name</th>
-    <th>Date</th>
-    <th>Country</th>
+    <th>Location</th>
   </tr>
-  {% for cave in site.caves %}
+  {% for cave in site.caves | sort_natural %}
   <tr>
     <td><a href="{{ cave.url }}">{{ cave.title }}</a></td>
-    <td>{{ cave.date }}</td>
-    <td>{{ cave.country }}</td>
+    <td>{{ cave.locationName }}</td>
   </tr>
   {% endfor %}
 </table>
