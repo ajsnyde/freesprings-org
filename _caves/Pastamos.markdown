@@ -11,6 +11,8 @@ locationName: "Randolph County, WV"
 location:
     latitude: 38.787180
     longitude: -79.916367
+
+mapFiles: [../assets/Pastamos/Pastamos v1.3.pdf]
 ---
 Coords are estimates
 

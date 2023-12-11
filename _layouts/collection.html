@@ -10,11 +10,17 @@ layout: archive
   <tr>
     <th>Cave Name</th>
     <th>Location</th>
+    <th>Maps?</th>
   </tr>
   {% for cave in site.caves | sort_natural %}
   <tr>
     <td><a href="{{ cave.url }}">{{ cave.title }}</a></td>
     <td>{{ cave.locationName }}</td>
+    <td>
+        {% if cave.mapFiles %}
+        ✅
+        {% endif %}
+    </td>
   </tr>
   {% endfor %}
 </table>
