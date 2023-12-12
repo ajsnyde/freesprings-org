@@ -5,10 +5,10 @@ layout: archive
 {{ content }}
 
 
-<h3>Stubbed caves (add <a href="https://github.com/ajsnyde/freesprings-org/new/main/_caves">here</a>):</h3>
+<h3>Stubbed caves (add a page by clicking on the markers):</h3>
 {% google_map width="100%" height="400" src="_data/diveSites.yml" %}
 
-<h3>Caves with pages:</h3>
+<h3>Caves with pages and coordinates:</h3>
 {% google_map width="100%" height="400" src="_caves/" %}
 
 {% assign sortedCaves = site.caves | sort_natural %}
