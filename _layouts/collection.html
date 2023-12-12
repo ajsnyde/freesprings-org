@@ -4,7 +4,14 @@ layout: archive
 
 {{ content }}
 
-{% google_map src="_caves/" %}
+
+<h3>Stubbed caves (add <a href="https://github.com/ajsnyde/freesprings-org/new/main/_caves">here</a>):</h3>
+{% google_map width="100%" height="400" src="_data/diveSites.yml" %}
+
+<h3>Caves with pages:</h3>
+{% google_map width="100%" height="400" src="_caves/" %}
+
+{% assign sortedCaves = site.caves | sort_natural %}
 
 <table>
   <tr>
@@ -12,7 +19,7 @@ layout: archive
     <th>Location</th>
     <th>Maps?</th>
   </tr>
-  {% for cave in site.caves | sort_natural %}
+  {% for cave in sortedCaves %}
   <tr>
     <td><a href="{{ cave.url }}">{{ cave.title }}</a></td>
     <td>{{ cave.locationName }}</td>
