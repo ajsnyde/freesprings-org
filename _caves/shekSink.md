@@ -19,3 +19,5 @@ header:
 Super secret lead that came to me in a dream. This is not checked out at the time of this writing, but obviously cave entries should be confirmed as diveable.
 
 ![image](../assets/Shek Sink/shekSink.jpeg)
+
+![image](https://github.com/ajsnyde/freesprings-org/assets/11302823/27823b3a-a351-49e7-88f2-5ad46a3df4f4)
