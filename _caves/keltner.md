@@ -13,7 +13,7 @@ location:
 
 mapFiles: [../assets/Keltner Saltpeter Cave//Keltner Saltpeter Cave v2.0.pdf]
 ---
-Coords are estimates
+Coords are estimates (accurate to the county)
 
 [Vector Map](../assets/Keltner Saltpeter Cave//Keltner Saltpeter Cave v2.0.pdf) graciously provided by Phillip Sullivan.
 
