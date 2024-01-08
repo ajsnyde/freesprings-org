@@ -6,7 +6,6 @@ date:   2023-07-07 10:57:09 -0400
 categories: [caves, dry]
 tags: dry
 # coords are super nice, but can be redacted if sensitive
-coordinates: TBD
 locationName: "Randolph County, WV"
 location:
     latitude: 38.787180
